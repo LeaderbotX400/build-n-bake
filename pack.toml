@@ -1,0 +1,13 @@
+name = "Build n' Bake"
+author = "LeaderbotX400"
+version = "4.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d9fd494b12d273b79198c9fe3ee49e4ee7261159d63580d690c9dd4ee5ace7da"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.197"

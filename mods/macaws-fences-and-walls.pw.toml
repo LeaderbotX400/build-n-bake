@@ -1,0 +1,14 @@
+name = "Macaw's Fences and Walls"
+filename = "mcw-fences-1.2.0-1.21.1neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GmwLse2I/versions/8JOkuC5Y/mcw-fences-1.2.0-1.21.1neoforge.jar"
+hash-format = "sha256"
+hash = "881f3ffa2274477573af279090740331426645e6d7cc303b36f3bfd5942c2811"
+mode = "url"
+
+[update]
+[update.modrinth]
+mod-id = "GmwLse2I"
+version = "8JOkuC5Y"

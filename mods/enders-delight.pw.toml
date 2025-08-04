@@ -1,0 +1,14 @@
+name = "Ender's Delight"
+filename = "endersdelight-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2uEhdGKt/versions/eCFhgqVV/endersdelight-neoforge-1.21.1-1.1.0.jar"
+hash-format = "sha256"
+hash = "0a4167429acf3740e48a699f186bdcad808c0081a8157b466fffa10716d1b50c"
+mode = "url"
+
+[update]
+[update.modrinth]
+mod-id = "2uEhdGKt"
+version = "eCFhgqVV"

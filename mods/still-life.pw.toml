@@ -1,0 +1,14 @@
+name = "Still Life"
+filename = "still-life-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fK6aflho/versions/Jerfht2T/still-life-0.1.1.jar"
+hash-format = "sha256"
+hash = "0838e42c151cd4118b2baadc9fe933cc5015c611d00a54846601eb1e8b66deab"
+mode = "url"
+
+[update]
+[update.modrinth]
+mod-id = "fK6aflho"
+version = "Jerfht2T"

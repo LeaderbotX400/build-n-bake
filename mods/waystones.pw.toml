@@ -1,0 +1,13 @@
+name = "Waystones"
+filename = "waystones-neoforge-1.21.1-21.1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "96895e55d5d91323af48b3a15db34b2eff8477a93169a6372beea325649c07dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6778962
+project-id = 245755

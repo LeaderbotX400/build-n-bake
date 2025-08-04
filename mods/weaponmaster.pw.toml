@@ -1,0 +1,14 @@
+name = "YDM's Weapon Master"
+filename = "weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qi1sj2da/versions/j4CtkXVs/weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar"
+hash-format = "sha256"
+hash = "af0de505aef99fa9feca6b969932b28b834f4663dcb95c12bf65dccbe304a605"
+mode = "url"
+
+[update]
+[update.modrinth]
+mod-id = "qi1sj2da"
+version = "j4CtkXVs"

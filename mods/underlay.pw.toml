@@ -1,0 +1,14 @@
+name = "Underlay"
+filename = "underlay-1.21-v0.9.5-f.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iltKD9qU/versions/yqZMJ42o/underlay-1.21-v0.9.5-f.jar"
+hash-format = "sha256"
+hash = "7676fb9915d9b2e36be45f77caddf8deaca85aa37a0f260c645a8fafc32ad55a"
+mode = "url"
+
+[update]
+[update.modrinth]
+mod-id = "iltKD9qU"
+version = "yqZMJ42o"

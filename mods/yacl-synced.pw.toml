@@ -1,0 +1,14 @@
+name = "YACL Synced"
+filename = "YACLSynced-neoforge-3.6.6.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MaPrjRfi/versions/fu9V0S6w/YACLSynced-neoforge-3.6.6.0%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "8daa5bbde6871c4cb027e37f2f5fb9a7df8b70bd9aa236c545de980627703b77"
+mode = "url"
+
+[update]
+[update.modrinth]
+mod-id = "MaPrjRfi"
+version = "fu9V0S6w"

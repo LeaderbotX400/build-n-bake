@@ -1,0 +1,14 @@
+name = "[EMF] Entity Model Features"
+filename = "entity_model_features_neoforge_1.21.1-2.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/Z0UKemxw/entity_model_features_neoforge_1.21.1-2.4.1.jar"
+hash-format = "sha256"
+hash = "412309ebb3a141c3242da6bc6e7ee2e7c2f13023238d6f400d9d2ef9bf0b693d"
+mode = "url"
+
+[update]
+[update.modrinth]
+mod-id = "4I1XuqiY"
+version = "Z0UKemxw"

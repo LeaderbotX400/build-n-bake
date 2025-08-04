@@ -1,0 +1,13 @@
+name = "Chisels & Bits - For Forge"
+filename = "chisels-and-bits-neoforge-21.1.25.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "94091fd93a5f1a4fcb045acda008a84965b7cfd41aa4a585851b4da223668157"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6370922
+project-id = 231095

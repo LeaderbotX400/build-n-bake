@@ -1,0 +1,14 @@
+name = "More Overlays Updated"
+filename = "moreoverlays-1.23.2-mc1.21-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Thy5Pqut/versions/W4urzLJ7/moreoverlays-1.23.2-mc1.21-neoforge.jar"
+hash-format = "sha256"
+hash = "9ca3beba61674e1bfa7f57f971375dba5cbac78efb2929759e4635a0d8bb27a3"
+mode = "url"
+
+[update]
+[update.modrinth]
+mod-id = "Thy5Pqut"
+version = "W4urzLJ7"

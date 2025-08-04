@@ -1,0 +1,14 @@
+name = "CustomSkinLoader"
+filename = "CustomSkinLoader_ForgeV3-14.24.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/idMHQ4n2/versions/7IAUBuzk/CustomSkinLoader_ForgeV3-14.24.jar"
+hash-format = "sha256"
+hash = "89f5b71fadc2c6ad46971e3ab0808829881a7606b94585175ffd10259e075dec"
+mode = "url"
+
+[update]
+[update.modrinth]
+mod-id = "idMHQ4n2"
+version = "7IAUBuzk"

@@ -1,0 +1,14 @@
+name = "MidnightLib"
+filename = "midnightlib-1.7.5-neoforge+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/HIlaYrgj/midnightlib-1.7.5-neoforge%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "13a7f044f39107231ff0537ba5d803e808bc80227958a18a50dd7f224b7d451b"
+mode = "url"
+
+[update]
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "HIlaYrgj"

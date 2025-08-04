@@ -1,0 +1,14 @@
+name = "Vegan Delight"
+filename = "vegan-delight-neoforge-1.21.1-1.4.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Na8nA0jA/versions/lJlxcthS/vegan-delight-neoforge-1.21.1-1.4.4.jar"
+hash-format = "sha256"
+hash = "1dcfee25337f6f523f7e74ef878526ca6b0de9f1046552c47ef67d5a8a8dc0cf"
+mode = "url"
+
+[update]
+[update.modrinth]
+mod-id = "Na8nA0jA"
+version = "lJlxcthS"
