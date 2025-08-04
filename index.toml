@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/release.yml"
+hash = "b08ab1730638cdb5b2e11d0b1b8dcca93466affa0e8b0553d848cf5633adb042"
+
+[[files]]
+file = "artifacts/1/Modpack Release/Modpack Release.zip"
+hash = "ea0102299584ed1fb6fadd1e9d4344cc85449c5c13b62f68def2c9571c06219e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2b1387f0c7d7f9dd5784fd112e5990e2c52c65f9abe82e5281f918f789183c09"
 metafile = true
@@ -66,11 +74,6 @@ hash = "266c35fb8e3e9ff260a4b22b63017abbac6eacc660a26a419816ae0ea12d8bc3"
 metafile = true
 
 [[files]]
-file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "b17754b4203ba6b42a3a25d3ddb944e7acb796344b4c4f1c3bb991204137ab20"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "b18629b46e00148db8b63be4480f2ce36ad5c47a43a90535c5e3c707ae8da577"
 metafile = true
@@ -118,11 +121,6 @@ metafile = true
 [[files]]
 file = "mods/chloride.pw.toml"
 hash = "7e88e24fd04863481e04318eb01e705c170a487d171d404fbfd64713d627e49f"
-metafile = true
-
-[[files]]
-file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "efa386c83a43d68937dccaa32acf8bfc86eec126300078348645beeede7be2bf"
 metafile = true
 
 [[files]]
@@ -241,11 +239,6 @@ hash = "3899dd2ee96e38915cf66d2896f239ecd7526249a0047c6f4a5116f6fbaafb21"
 metafile = true
 
 [[files]]
-file = "mods/create-recycling-everything-neo.pw.toml"
-hash = "901c63260906c006de05b04c678c3ecc5332e787e77d42800129ad50e02d5735"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "58dec1dcd68049dacc740db2cb51277f3ad06e07485438dccda7ad2e450f6d9e"
 metafile = true
@@ -273,11 +266,6 @@ metafile = true
 [[files]]
 file = "mods/cuisine-delight.pw.toml"
 hash = "2bb587f4b1871544c56be425e05ef6c32fa2c9e29464a97cdec708abf065f9d9"
-metafile = true
-
-[[files]]
-file = "mods/cupboard.pw.toml"
-hash = "083331f09827315cf44c4e788be766cac1544af96288b23b49435b415fbe2391"
 metafile = true
 
 [[files]]
@@ -457,17 +445,17 @@ metafile = true
 
 [[files]]
 file = "mods/hopo-better-mineshaft.pw.toml"
-hash = "a3fa59f73fc9c3519f03b8b2754fa3b33ef3ab910c3bc32315927ccfc4680642"
+hash = "f733e626ca4afab1bd38e753036e89008ddffa6edad1048c34d7629c03c5b734"
 metafile = true
 
 [[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
-hash = "86de7f40c745076f44ca98273014729665d1c4cf19ae3727eabd0d1b49229ef4"
+hash = "19f9056c2e1ef71c2815c273890b2ae8734167c293b397054b1d3e691fd3f645"
 metafile = true
 
 [[files]]
 file = "mods/hopo-better-underwater-ruins.pw.toml"
-hash = "1f97af0ae0b453e893f3b76fc3e6b934bda2f5c2ce545fcf0cddf16688405ef8"
+hash = "b51659b3383acef3ee3e13e084b2a2fc5309593835897bf74d1b468e696f70bf"
 metafile = true
 
 [[files]]
@@ -816,11 +804,6 @@ hash = "5b59445a503b399f1cc876ea9f56caa5c0aa2f07c6ab34a37ab800e460f67f38"
 metafile = true
 
 [[files]]
-file = "mods/smooth-chunk-save.pw.toml"
-hash = "0b0a297cf934dd5dcdb6ddc450b8a623500f42b7e0681bd1e42b7093e611a784"
-metafile = true
-
-[[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "033b7c00559870a3a1ef2d95bec9938d1b63171c7ab5300129e6716bc9a24f64"
 metafile = true
@@ -937,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "6535a957c4d3431f2808523e3359c3f84c689c1a2671cb7dd545724f973cbf31"
+hash = "d85d66f1636dec252cb3533c7e2c26384601612bc7e062a94065adb3cb68c9bc"
 metafile = true
 
 [[files]]

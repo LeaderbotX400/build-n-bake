@@ -1,12 +1,12 @@
-name = "Build n' Bake"
+name = "build-n-bake"
 author = "LeaderbotX400"
-version = "4.0.0"
+version = "4.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d9fd494b12d273b79198c9fe3ee49e4ee7261159d63580d690c9dd4ee5ace7da"
+hash = "71a638f94c6abc7d1e76f75d592f6700faa0c49c5c3663ac084600735ce5a38c"
 
 [versions]
 minecraft = "1.21.1"
