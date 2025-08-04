@@ -18,18 +18,18 @@ jobs:
         run: export REPO_NAME=$(basename ${{github.repository}})
 
         # Run the included ./pack-instance.sh script to generate .zip file for publishing
-      #   - name: Run pack-instance script
-      #     run: |
-      #         chmod +x ./pack-instance.sh
-      #         ./pack-instance.sh modpack.zip
+      - name: Run pack-instance script
+        run: |
+            chmod +x ./pack-instance.sh
+            ./pack-instance.sh modpack.zip
 
       # Install Nix
-    #   - uses: cachix/install-nix-action@v31
-    #     with:
-    #       nix_path: nixpkgs=channel:nixos-unstable
+      - uses: cachix/install-nix-action@v31
+        with:
+          nix_path: nixpkgs=channel:nixos-unstable
 
-    #   - name: Export modpack to Modrinth
-    #     run: nix run nixpkgs#packwiz modrinth export
+      - name: Export modpack to Modrinth
+        run: nix run nixpkgs#packwiz modrinth export
     
       - name: Find Modrinth file
         run: | 
