@@ -12,7 +12,7 @@ jobs:
     steps:
       # Checkout the repository
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Get Repo Name
         run: echo "REPO_NAME=$(basename ${{github.repository}})" >> $REPO_NAME
@@ -23,7 +23,7 @@ jobs:
             chmod +x ./pack-instance.sh
             ./pack-instance.sh modpack_${{ env.REPO_NAME }}.zip
       - name: Upload release artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: instance-package
           path: ./modpack_${{ env.REPO_NAME }}.zip
